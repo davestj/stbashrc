@@ -9,6 +9,8 @@ mv -u .bash_profile ~/.bash_profile
 =================================================================
 Once the older bash rc files are over written/updated. Exit the
 console and log back in to see the changes.
-Additionally you can edit the files to your liking.
-
+You will need to open up .bash_profile in whatever editor you
+roll with, we dont judge, but we dig vim ;)
+Change the email address for login notifications to one you
+have setup.
 
